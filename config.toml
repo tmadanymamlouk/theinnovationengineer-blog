@@ -1,5 +1,4 @@
-
-baseURL = "https://theinnovationengineer-blog.github.io/"
+baseURL = "https://tmadanymamlouk.github.io/theinnovationengineer-blog/"
 languageCode = "de-de"
 title = "TheInnovationEngineer Blog"
 theme = "PaperMod"
