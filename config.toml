@@ -4,6 +4,7 @@ title = "TheInnovationEngineer Blog"
 theme = "PaperMod"
 
 [params]
+  homeInfoParams = { title = "Willkommen beim Innovation Engineer Blog", content = "Gedanken zu KI, Software und Zukunftstechnologien." }
   ShowReadingTime = true
   ShowShareButtons = true
   defaultTheme = "auto"
