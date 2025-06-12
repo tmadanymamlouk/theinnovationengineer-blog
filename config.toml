@@ -4,10 +4,19 @@ title = "TheInnovationEngineer Blog"
 theme = "PaperMod"
 
 [params]
-  homeInfoParams = { title = "Willkommen beim Innovation Engineer Blog", content = "Gedanken zu KI, Software und Zukunftstechnologien." }
-  ShowReadingTime = true
-  ShowShareButtons = true
   defaultTheme = "auto"
+
+  [params.homeInfoParams]
+    Title = "Willkommen beim Innovation Engineer Blog 👋"
+    Content = "Hier findest du Gedanken, Analysen und Experimente zu Generativer KI, innovativen Tools und strategischer Technologieeinschätzung."
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/tmadanymamlouk"
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/dein-profil"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
